@@ -48,6 +48,14 @@ I'm a physics graduate transitioning into **AI safety research**. With a strong 
 
 ---
 
+### 📄 Publications
+
+**[Spatiotemporal quenches for efficient critical ground state preparation in the two-dimensional transverse field Ising model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054311)**  
+Simon Bernier and Kartiek Agarwal  
+*Physical Review B* **111**, 054311 (2025)
+
+---
+
 ### 📂 Featured Projects
 
 My repositories currently showcase computational physics research, including:
